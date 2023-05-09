@@ -28,12 +28,12 @@ Bem similar (inclusive mantida pela mesma entidade) a TheMealDB API, só que foc
 # Como inicializar a aplicação
 
 1.Clone o repositório.
-<li>git clone git@github.com:LucasSilvaO/recipes-app.git </li>
-<li>Entre no diretório clonado </li>
+<li><code>git clone git@github.com:LucasSilvaO/recipes-app.git </code></li>
+<li><code>Entre no diretório clonado </code></li>
 
 2.Instale as depêndencias:
-<li>npm install</li>
+<li><code>npm install</code></li>
 
 3.Inicialize o projeto:
 
-<li>npm start</li>
+<li><code>npm start</code></li>
