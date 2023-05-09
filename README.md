@@ -3,10 +3,10 @@ Projeto desenvolvido no módulo de Front-End da Trybe, utilizando o que há de m
 No aplicativo é possível ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas de comidas e bebidas.
 O aplicativo
 O projeto foi desenvolvido por um squad de 5 pessoas:
-<li><a href="https://github.com/PauloScapol"></a>Paulo Scapol</li>
-<li><a href="https://github.com/brunagimenez"></a>Bruna Gimenez</li>
-<li><a href="https://github.com/VicSales28"></a>Victoria Sales</li>
-<li><a href="https://github.com/VictorDmgs"></a>Victor Alves</li>
+<li><a href="https://github.com/PauloScapol">Paulo Scapol</a></li>
+<li><a href="https://github.com/brunagimenez">Bruna Gimenez</a></li>
+<li><a href="https://github.com/VicSales28">Victoria Sales</a></li>
+<li><a href="https://github.com/VictorDmgs">Victor Alves</a></li>
 
 # Tecnologias Utilizadas
 <li>JavaScript</li>
